@@ -19,7 +19,6 @@ media
 
 # Collected static files
 staticfiles/
-product.json
 
 # Coverage
 .coverage
@@ -77,3 +76,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+products_code/fixtures/
