@@ -56,7 +56,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'https://muhammadhaggy.github.io/payit/',
+    'https://muhammadhaggy.github.io',
 ]
 
 ROOT_URLCONF = 'project_django.urls'
